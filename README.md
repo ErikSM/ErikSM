@@ -14,7 +14,3 @@
 <div style="display: inline-block"><br>
   <img align="center" alt="python" src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
-
-###   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikSM&hide_progress=true)
-
