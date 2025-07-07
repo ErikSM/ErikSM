@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-miyajima-355a7223b)
 [![Instablog](https://img.shields.io/badge/Instablog-713D47?style=for-the-badge&logo=instagram&logoColor=grey)](https://www.instagram.com/eagles.mountain)
 
-![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikSM&show_icons=true&theme=radical)
+[![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikSM&show_icons=true&theme=radical)](https://github.com/ErikSM?tab=repositories)
 
 
 
