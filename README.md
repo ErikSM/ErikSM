@@ -19,7 +19,7 @@
 
 
 
-###   Website:
+Website:
 
-[www.erikmiyajima.com](https://wwww.erikmiyajima.com)
+[www.erikmiyajima.com](https://www.erikmiyajima.com)
 
