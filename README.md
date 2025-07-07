@@ -18,11 +18,6 @@
 
 ###   Technologies:
 
-[![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.erikmiyajima.com)
-
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="python" src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
+[![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 
