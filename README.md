@@ -17,5 +17,9 @@
 
 ###   Website:
 
-[www.erikmiyajima.com](https://img.shields.io/badge/Instablog-713D47?style=for-the-badge&logo=instagram&logoColor=grey)
+<div style="display: inline-block"><br>
+  <img align="center" alt="www.erikmiyajima.com" text="www.erikmiiyajima.com">(https://wwww.erikmiyajima.com)
+</div>
+
+[www.erikmiyajima.com](https://wwww.erikmiyajima.com)
 
