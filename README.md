@@ -14,3 +14,5 @@
 <div style="display: inline-block"><br>
   <img align="center" alt="python" src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+["www.erikmiyajima.com"](https://img.shields.io/badge/Instablog-713D47?style=for-the-badge&logo=instagram&logoColor=grey)
