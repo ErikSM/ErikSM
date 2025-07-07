@@ -1,7 +1,7 @@
 
 ###   Website: 
 
-[![www.erikmiyajima.com](https://img.shields.io/badge/www.erikmiyajima.com-713D47?style=for-the-badge&logo=website&logoColor=white)](https://www.erikmiyajima.com)
+[![www.erikmiyajima.com](https://img.shields.io/badge/www.erikmiyajima.com-14354C?style=for-the-badge&logo=website&logoColor=white)](https://www.erikmiyajima.com)
 
 [www.erikmiyajima.com](https://www.erikmiyajima.com)
 
