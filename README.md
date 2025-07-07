@@ -18,7 +18,7 @@
 
 ###   Technologies:
 
-[![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=blue)](https://www.djangoproject.com/)
 
 
