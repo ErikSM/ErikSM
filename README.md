@@ -1,4 +1,9 @@
 
+###   Website:
+
+[www.erikmiyajima.com](https://www.erikmiyajima.com)
+
+
 
 ###   Social Media:
 
@@ -17,9 +22,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-
-
-###       Website:
-
-[www.erikmiyajima.com](https://www.erikmiyajima.com)
 
