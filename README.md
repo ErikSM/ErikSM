@@ -7,7 +7,7 @@
 
 ###   Social Media:
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?viewas=100000686899395&id=100009124251611)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ErikSatoshiMiyajima)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erik_miyajima)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikmiyajima/)
 [![Instablog](https://img.shields.io/badge/Instablog-713D47?style=for-the-badge&logo=instagram&logoColor=grey)](https://www.instagram.com/eagles.mountain)
